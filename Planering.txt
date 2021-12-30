@@ -1,0 +1,4 @@
+- Bygg ett program som ger tillbaka två slumpmässiga variablar;
+	- 1# Antal repetioner (5-20)
+	- 2# Övning att göra dessa repetioner av
+
